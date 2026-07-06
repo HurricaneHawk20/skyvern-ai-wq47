@@ -1,4 +1,4 @@
-# 
+# Automático Skyvern plugins. Com ajuste fino e inferência em tempo real — otimizado para máximo desempenho e eficiência.
 
 
 
